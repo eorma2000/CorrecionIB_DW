@@ -1,3 +1,5 @@
+# Nombre de estudiante: 
+- ESTRADA ALVIA JUAN JOSE
 # Sistema de Autenticación de Usuarios
 
 Este proyecto implementa un sistema básico de autenticación de usuarios utilizando PHP, MySQL y HTML.
@@ -19,5 +21,5 @@ Este proyecto implementa un sistema básico de autenticación de usuarios utiliz
 - **Dashboard**: Los usuarios redirigidos a `dashboard.php` después de iniciar sesión.
 - **Cerrar sesión**: Los usuarios pueden cerrar sesión mediante `cerrar_sesion.php`.
 
-## Licencia
-MIT
+## UNIVERSIDAD:
+UTPL
